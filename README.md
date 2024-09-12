@@ -1,1 +1,1 @@
-Deploy link- https://deeksha-movix-movie-website-new.vercel.app/
+Deploy link-https://deeksha-movie-website.vercel.app/
